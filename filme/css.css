@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.fundo {
+    width: 1440px;
+    height: 1024px;
+    background-color: black;
+    display: flex;
+    position: relative;
+
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
